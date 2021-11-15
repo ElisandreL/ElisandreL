@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **ElisandreL/ElisandreL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Front-end junior web developer
+
+* 🌱 Currently learning VUE.JS, ANGULAR, NODE.JS
+* 👯 Looking for an internship
+* ⚡ Work hard to be full-stack developer
+* 😄 Pronouns ?? Call me Eli ;)
+* ⚡ Fun fact: 01101100 01100101 01110011 00100000 01101100 01101001 01100011 01101111 01110010 01101110 01100101 01110011 00100000 01100101 01111000 01101001 01110011 01110100 01100101 01101110 01110100
